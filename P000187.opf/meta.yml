@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །བློ་སྦྱོང་ཞེན་པ་བཞི་བྲལ་གྱི་ཁྲིད་ཡིག་ཟབ་དོན་གནད་ཀྱི་ལྡེའུ་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-01-1
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Key to the Profound Meaning:An Explanation of Parting from the Four Attachments
+    bo: བློ་སྦྱོང་ཞེན་པ་བཞི་བྲལ་གྱི་ཁྲིད་ཡིག་ཟབ་དོན་གནད་ཀྱི་ལྡེའུ་མིག
+  collection:
+    en: IBA Gorampa Series–  Book 1
+    bo: གོ་རམས་པ་བསོད་ནམས་སེང་གེ་རྩོམ་བྲིས།–  དེབ། ༡
+  author:
+    en: Gorampa Sonam Senge
+    bo: གོ་རམས་པ་བསོད་ནམས་སེང་གེ
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-GR-01-1
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-GR-01-1.epub
+  description:
+    en: Gorampa clearly demonstrate the profound practice of Lojong by commenting
+      on the Parting from the Four Attachments.
+    bo: བོད་དུ་གྲགས་ཆེ་བའི་ཐེག་པ་ཆེན་པོའི་ལམ་གྱི་མན་ངག་རྗེ་བཙུན་འཇམ་པའི་དབྱངས་ཀྱིས་ས་ཆེན་ཀུན་དགའ་སྙིང་པོ་ལ་གནང་བའི་ཉམས་ལེན་གྱི་རིམ་པ་དེའི་འགྲེལ་པ་ཡིན།
