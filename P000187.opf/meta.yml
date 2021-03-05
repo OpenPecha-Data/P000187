@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000187
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བློ་སྦྱོང་ཞེན་པ་བཞི་བྲལ་གྱི་ཁྲིད་ཡིག་ཟབ་དོན་གནད་ཀྱི་ལྡེའུ་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
-  sku: IBA-GR-01-1
   layers:
   - book_title
   - author
   - quotation
   - sabche
+  id: IBA-GR-01-1
 web_metadata:
   title:
     en: Key to the Profound Meaning:An Explanation of Parting from the Four Attachments
